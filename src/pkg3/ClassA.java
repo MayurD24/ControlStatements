@@ -8,7 +8,6 @@ public class ClassA {
 		
 		// While loop
 		// find the prime numbers
-		
 		Scanner scn = new Scanner(System.in);
 		
 		System.out.println("Enter the range to find prime numbers : ");
@@ -29,13 +28,12 @@ public class ClassA {
 				{
 					count++;
 				}
-				temp--;   //bkhdbskb sn cmzlkcmlanckbsdcmsac;,sa
+				temp--;
 			}
 			if(count==2)
 			{
 				System.out.println(i);
 			}
-
 		}
 		scn.close();
 	}
